@@ -1,18 +1,11 @@
-			<!-- footer -->
-			<footer class="footer" role="contentinfo">
-
-				<!-- copyright -->
-				<p class="copyright">
-					&copy; <?php echo date('Y'); ?> Copyright <?php bloginfo('name'); ?>. <?php _e('Powered by', 'html5blank'); ?>
-					<a href="//wordpress.org" title="WordPress">WordPress</a> &amp; <a href="//html5blank.com" title="HTML5 Blank">HTML5 Blank</a>.
-				</p>
-				<!-- /copyright -->
-
-			</footer>
-			<!-- /footer -->
-
-		</div>
+			</div>
 		<!-- /wrapper -->
+
+		<!-- footer -->
+		<footer class="footer" role="contentinfo">
+			<div class="footer-inner">Oversubscribed is by <a href="http://twitter.com/mwil20">Mike Wilner</a> and <a href="http://maxnuss.com">Max Nussenbaum</a>.</div>
+		</footer>
+		<!-- /footer -->
 
 		<?php wp_footer(); ?>
 

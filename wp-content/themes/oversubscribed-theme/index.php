@@ -1,29 +1,28 @@
-<?php get_header(); ?>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script>
+ $(document).ready(function(){
+	$("#hide-welcome").click(function() {
+	  $(".welcome").fadeOut();
+	});
+});
+</script>
 
 <div class="welcome">
-	WELCOME
-	
-	<!-- Begin Mailchimp Signup Form -->
-	<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-	<style type="text/css">
-		#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-		/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-		   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-	</style>
-	<div id="mc_embed_signup">
-	<form action="https://propellerdb.us18.list-manage.com/subscribe/post?u=66cda0534de0d0567b1d2cd0e&amp;id=16d3e09f15" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-		<div id="mc_embed_signup_scroll">
-	
-		<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-		<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-		<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_66cda0534de0d0567b1d2cd0e_16d3e09f15" tabindex="-1" value=""></div>
-		<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+	<div class="welcome-inner">
+		<img src="<?php echo get_template_directory_uri(); ?>/img/logotype.png" alt="Logo" class="welcome-logo">
+		<div class="welcome-subhead">A weekly newsletter for startup founders about early-stage fundraising.</div>
+		
+		[REGISTER]
+		
+		<div class="read-it-first">
+			<a href="#" id="hide-welcome">Let me read it first</a>
 		</div>
-	</form>
-	</div>
-	<!--End mc_embed_signup-->
-
+		
+	</div><!--welcome-inner-->
 </div><!--welcome-->
+
+<?php get_header(); ?>
 
 <main role="main">
 	<!-- section -->
