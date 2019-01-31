@@ -33,6 +33,7 @@
 						<img src="<?php echo get_template_directory_uri(); ?>/img/logotype.png" alt="Logo" class="logo-img">
 					</a>
 					<div class="logo-subhead">A weekly fundraising newsletter for early-stage founders.</div>
+					<div class="logo-subhead buy-the-book"><a href="https://www.amazon.com/Oversubscribed-Founders-Guide-Seed-Fundraising-ebook/dp/B07JFS4BY7/">Buy the book</a></div>
 				</div>
 				<!-- /logo -->
 

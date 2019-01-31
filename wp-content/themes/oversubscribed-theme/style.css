@@ -288,14 +288,14 @@ input[type="radio"]:checked:after {
 	max-width: 700px;
 	width: 95%;
 	margin: 0 auto;
-	height: 100vh;
+	min-height: 50vh;
 	position: relative;
 }
 
 /* header */
 .header {
 	width: 100%;
-	height: 140px;
+	height: 170px;
 	background: #ffd64a;
 	margin-bottom: 40px;
 }
@@ -313,7 +313,19 @@ input[type="radio"]:checked:after {
 
 .logo-subhead {
 	font-weight: 400;
+	margin-top: 14px;
+}
+
+.logo-subhead.buy-the-book {
 	margin-top: 10px;
+}
+
+.logo-subhead a {
+	color: #530808;
+}
+
+.logo-subhead a:hover {
+	border-bottom: 1px dotted #530808;
 }
 
 
