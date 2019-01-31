@@ -350,11 +350,37 @@ input[type="radio"]:checked:after {
 }
 
 /* footer */
+.book-footer {
+	max-width: 800px;
+	background: #f3f3f3;
+	padding: 20px;
+	margin: 50px auto 0;
+	border-radius: 12px;
+}
+
+.book-cover {
+	width: 180px;
+	display: inline-block;
+}
+
+.cover-img {
+	max-width: 140px;
+}
+
+.cover-img:hover {
+	opacity: 0.8;
+}
+
+.book-text {
+	width: calc(100%-180px);
+	display: inline-block;
+}
+
 .footer {
 	width: 100%;
 	height: 120px;
 	background: #ffd64a;
-	margin-top: 80px;
+	margin-top: 30px;
 }
 
 .footer-inner {

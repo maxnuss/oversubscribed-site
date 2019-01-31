@@ -1,5 +1,15 @@
 			</div>
 		<!-- /wrapper -->
+		
+		<div class="book-footer">
+			<div class="book-cover">
+				<a href="https://www.amazon.com/Oversubscribed-Founders-Guide-Seed-Fundraising-ebook/dp/B07JFS4BY7/"><img src="<?php echo get_template_directory_uri(); ?>/img/oversubscribed-cover.jpg" alt="Logo" class="cover-img"></a>
+			</div><!--cover-->
+			<div class="book-text">
+				<h3>Buy the book</h3>
+				<p>xxx</p>
+			</div><!--text-->
+		</div>
 
 		<!-- footer -->
 		<footer class="footer" role="contentinfo">
