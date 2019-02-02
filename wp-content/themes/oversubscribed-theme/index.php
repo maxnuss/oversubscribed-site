@@ -13,10 +13,10 @@
 		<img src="<?php echo get_template_directory_uri(); ?>/img/logotype.png" alt="Logo" class="welcome-logo">
 		<div class="welcome-subhead">A weekly newsletter for startup founders about early-stage fundraising.</div>
 		
-		[REGISTER]
+		<a href="/membership-join/membership-registration/" class="btn btn-blue">Register to read for free</a>
 		
 		<div class="read-it-first">
-			<a href="#" id="hide-welcome">Let me read it first</a>
+			<a href="#" id="hide-welcome">Read a sample post first</a>
 		</div>
 		
 	</div><!--welcome-inner-->
