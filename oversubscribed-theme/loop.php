@@ -2,7 +2,7 @@
 
     <div class="register-banner">
         <p>Registering for an Oversubscribed account is free and gets you access to our full archives, as well as our weekly email with fundraising news and exclusive interviews with founders and VCs.</p>
-        <a href="/membership-join/membership-registration/" class="btn btn-blue register-banner-join-us">Join Us Here</a></p>
+        <a href="/join/" class="btn btn-blue register-banner-join-us">Join Us Here</a></p>
     </div><!--register-banner-->
 
 	<!-- article -->

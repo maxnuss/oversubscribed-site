@@ -517,6 +517,18 @@ input[type="radio"]:checked:after {
 
 
 /* Registration & Log In */
+.swpm-form-builder ::-webkit-input-placeholder {
+   color: transparent;
+}
+
+.swpm-form-builder ::-moz-placeholder {
+   color: transparent;
+}
+
+.swpm-form-builder ::-ms-input-placeholder {
+   color: transparent;
+}
+
 .swpm-form-builder fieldset {
     border: 0;
 }
@@ -535,7 +547,12 @@ label.swpm-desc {
     display: none;
 }
 
-li#item-swpm-4 {
+li#item-swpm-17 p {
+    margin-top: 0px;
+    font-size: 95%;
+}
+
+li#item-swpm-18 {
     display: none;
 }
 
