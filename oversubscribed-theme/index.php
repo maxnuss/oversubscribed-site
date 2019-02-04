@@ -1,3 +1,5 @@
+<?php get_header(); ?>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <script>
@@ -21,8 +23,6 @@
 		
 	</div><!--welcome-inner-->
 </div><!--welcome-->
-
-<?php get_header(); ?>
 
 <main role="main">
 	<!-- section -->
