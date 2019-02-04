@@ -37,14 +37,17 @@
 					<div class="logo-subhead buy-the-book"><a href="/book" class="btn btn-transparent">Buy the book&mdash;just $4.99</a></div>
 				</div>
 				<!-- /logo -->
-
-				<!-- nav -->
-				<nav class="nav" role="navigation">
-				</nav>
-				<!-- /nav -->
-
+				
 		</header>
 		
+		<div class="logged-in-subhead">
+			<div class="logged-in-subhead-inner">
+				<?php global $current_user; wp_get_current_user(); ?>
+				<?php if ( is_user_logged_in() ) { 
+				 echo 'You are currently logged in as: ' . $current_user->user_login . "<a href=\"https://oversubscribed.club/wp-login.php?action=logout\" class=\"log-out-link\">Log Out</a>"; }  ?>
+			</div>
+		</div>
+
 
 		<!-- wrapper -->
 		<div class="wrapper">
