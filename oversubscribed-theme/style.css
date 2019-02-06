@@ -373,9 +373,14 @@ input[type="radio"]:checked:after {
 }
 
 .logged-in-subhead {
+	display: none;
 	height: 40px;
 	padding: 5px 20px;
 	background: #f3f3f3;
+}
+
+.logged-in .logged-in-subhead {
+	display: block;
 }
 
 .logged-in-subhead-inner {
@@ -508,6 +513,7 @@ input[type="radio"]:checked:after {
 
 /* register banner */
 .register-banner {
+	margin-top: 20px;
     padding: 5px 20px;
     background: #f9f7ee;
     border-radius: 12px;
