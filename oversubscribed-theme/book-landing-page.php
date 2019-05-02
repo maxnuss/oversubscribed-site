@@ -89,8 +89,8 @@
         <div class="row oversubscribed-row-2">
                 <div class="col-md-1"></div><!--col-->
                 <div class="col-md-5">
-                    <p class="quote quote-small medium">Now that I’ve read this, I can’t believe it didn’t exist, and I feel so sorry for any founder who’s had to raise without it. It takes the process of fundraising from a mystery box to a paint-by-numbers.&rdquo;</p>
-                    <p class="medium quote-attribution">&mdash;Astrid Schanz-Garbassi<br />Cofounder, Good Medicine Co.</p>
+                    <p class="quote quote-small medium">This is the complete guide to raising a seed round successfully, written by two founders who have done it themselves. The content is comprehensive, the style is welcoming, and the narrative puts the nervous founder at ease about such a stressful process. Save yourself the trouble of reading a hundred Medium articles on the same topic&mdash;just get <em>Oversubscribed</em>.</p>
+                    <p class="medium quote-attribution">&mdash;Tim Dingman<br />YC founder</p>
                 </div><!--col-->
                 <div class="col-md-5">
                     <p class="quote quote-small medium">In a world cluttered with fundraising resources and advice, <em>Oversubscribed</em> stands out as the best option&mdash;and it&rsquo;s not even close.&rdquo;</p>
@@ -162,8 +162,37 @@
             <div class="row oversubscribed-row-2">
                 <div class="col-sm-2"></div>
                 <div class="col-sm-8">
-                    <p class="quote medium"><em>Oversubscribed</em> demystifies the black box that is early-stage fundraising. It&rsquo;s filled with real-world case studies, strategic guidance, and advice that founders will actually find useful.</p>
-                    <p class="medium quote-attribution">&mdash;Jon Salm<br />Businesss Development, SpokenLayer</p>
+                    <p class="quote medium">Whether you&rsquo;ve done it zero times or ten, whether it&rsquo;s seed or a B, in my experience when you go out to raise money for your company things always get a little messy... and I personally always find myself trying to re-read a bunch of blog posts compiled by my favorite vc bloggers (who may not actually have my best interests at heart).</p>
+                    <p class="medium">This book is a brisk and simple way to de-clutter your mind and get you focused on running an intelligent process with the right tools. It&rsquo;s sort of a narrative playbook. I&rsquo;ve been involved in raising a number of rounds, from pre seed to B, and there are still things that I was reminded of or appreciated anew (like the 26 things to have in your deck, and some of the psychology around the process.</p>
+                    <p class="medium">Next time someone asks me how to raise money, I&rsquo;ll save myself (and then) an hour of stammering explanation, and just send them here.&rdquo;</p>
+                    <p class="medium quote-attribution">&mdash;Mike Tarullo<br />COO, Banza</p>
+                </div>
+                <div class="col-sm-2"></div>
+            </div><!--row-->
+            <div class="row oversubscribed-row-2">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <p class="quote medium"><em>Oversubscribed</em> is a quick and dense read with actionable advice on how to get your seed round closed methodically and quickly. Mike and Max have done a tremendous job pairing their own lived experience as entrepreneurs with insights and commentary from the various kinds of angel investors, VCs, lenders, and grant organizations entrepreneurs should be talking to. My favorite element of this book is how they explain the incentives of each group of investors and&mdashl;importantly&mdash;how they differ, so that entrepreneurs can approach each of them with a tailored pitch. This is far superior to most content you can find online that just helps you build a general one-size-fits-all pitch framework.</p>
+                    <p class="medium">Lastly, they&rsquo;ve dedicated the first chapter to asking you if you&rsquo;re sure you even want to set down this path at all. Most readers will probably have decided they want to raise a seed round, but for those who aren't completely sure, there&rsquo;s a good and sober discussion of what it entails to sell a portion of your company to outsiders who have slightly different incentives from you. It's worth everyone reading this first chapter as a primer to understanding fundraising at all.</p>
+                    <p class="medium quote-attribution">&mdash;Jim Hau<br />Investor</p>
+                </div>
+                <div class="col-sm-2"></div>
+            </div><!--row-->
+            <div class="row oversubscribed-row-2">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <p class="quote large">An excellent must-read for new entrepreneurs.</p>
+                    <p class="medium"><em>Oversubscribed</em> isn't just about funding sources, but about the psychology behind those sources.</p>
+                    <p class="medium">I read the first edition of the book and found it to be an excellent guide for new entrpreneurs looking to get funding. It demystifies the sources of funding by explaining why they may or may not want to invest in your company. I especially like the book's discussion about how an entrpreneur should approach funding sources and how to build scarcity and demand with them.</p>
+                    <p class="medium quote-attribution">&mdash;Will Herman<br />Author, angel investor, corporate director, and startup mentor</p>
+                </div>
+                <div class="col-sm-2"></div>
+            </div><!--row-->
+            <div class="row oversubscribed-row-2">
+                <div class="col-sm-2"></div>
+                <div class="col-sm-8">
+                    <p class="quote medium">Max and Mike offer a practical, accessible take on raising money learned from their own experiences in building their businesses. They are straightforward about their businesses, their goals, what they learned, and how it can apply to your own business. Everyone&rsquo;s advice is tempered by their own experiences, and rather than run from that, Max and Mike are upfront about what their businesses, their goals, their pitch decks, and their experiences, so you can judge how their advice fits with your own goals. I got to see the early stages of their businesses up close&mdash;and they reference my materials on financials&mdash;so I&rsquo;m not an impartial observer, but that&rsquo;s enabled me to see how they processed their experiences, and I enjoyed reading their take on topic that&rsquo;s been covered widely, but rarely deeply. Instead of getting lost in the abundant advice available on the web about how to raise money, start with this.&rdquo;</p>
+                    <p class="medium quote-attribution">&mdash;Taylor Davidson<br />Foresight</p>
                 </div>
                 <div class="col-sm-2"></div>
             </div><!--row-->
